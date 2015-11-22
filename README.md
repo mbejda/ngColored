@@ -1,5 +1,7 @@
-![](https://www.mbejda.com/content/images/2015/11/AngularJS-large-1.png#cover)
-Angular `ngColored` directive lets you display colors in your templates. 
+![](https://www.mbejda.com/content/images/2015/11/AngularJS-large-1.png#cover)<br>
+Angular `ngColored` directive lets you display colors in your templates. <br>
+![](https://www.mbejda.com/content/images/2015/11/Screen-Shot-2015-11-22-at-12-26-58-AM.png)<br>
+
 
 ## Installation
 ```
