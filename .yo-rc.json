@@ -1,0 +1,29 @@
+{
+  "generator-angular-package": {
+    "props": {
+      "author": {
+        "name": "Milos Bejda",
+        "email": "mbejda@live.com"
+      },
+      "yourModule": {
+        "original": "ngColored",
+        "camelized": "ngColored",
+        "dasherized": "ng-colored",
+        "slugified": "ngcolored",
+        "parts": [
+          "ngcolored"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": false,
+      "includeModuleControllers": false,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "moduleDirectory": "modules/ngcolored",
+      "moduleUnitTestDirectory": "test/unit/ngcolored",
+      "moduleUnitE2eDirectory": "test/e2e/ngcolored"
+    }
+  }
+}
