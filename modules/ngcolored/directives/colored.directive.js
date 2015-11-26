@@ -1,4 +1,3 @@
-'use strict';
 angular.module('ngcolored').directive('colored', [
   function() {
       return {
