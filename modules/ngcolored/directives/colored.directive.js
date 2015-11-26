@@ -1,6 +1,3 @@
-/**
- * Created by coichedid on 21/04/15.
- */
 'use strict';
 angular.module('ngcolored').directive('colored', [
   function() {
